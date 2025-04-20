@@ -1,0 +1,16 @@
+{
+    "name": "com.google.firebase.analytics",
+    "rootNamespace": "Firebase.Analytics",
+    "references": [
+        "GUID:5e35883992074cf1b1b2e7a36440a914"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

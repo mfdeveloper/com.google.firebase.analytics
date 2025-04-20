@@ -1,0 +1,17 @@
+{
+    "name": "com.google.firebase.analytics.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:7f6b7d6b57e241c4826c518d473aa88b",
+        "GUID:f40c46c1cd8c60f4f80d341fed206507"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
