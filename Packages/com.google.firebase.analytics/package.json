@@ -17,5 +17,12 @@
   "unity": "2020.1",
   "dependencies": {
     "com.google.firebase.app": "12.4.1"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Firebase Analytics Event",
+      "description": "A sample scene with FirebaseApp initialization script, and how to log a simple event on Analytics cloud dashboard",
+      "path": "Samples~/FirebaseAnalyticsLogSample"
+    }
+  ]
 }
